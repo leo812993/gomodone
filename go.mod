@@ -1,3 +1,3 @@
-module github.com/leo/gomodone
+module github.com/leo812993/gomodone
 
 go 1.18
